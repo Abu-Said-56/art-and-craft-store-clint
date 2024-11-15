@@ -25,7 +25,7 @@ const Navbar = () => {
        <NavLink to="/allitems"><li><a className="text-xl">All Art&Craft Items</a></li></NavLink>
     </>
     return (
-        <div className="navbar bg-slate-300 mb-5">
+        <div className="navbar bg-slate-300">
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
