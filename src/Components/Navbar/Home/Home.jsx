@@ -12,7 +12,7 @@ const Home = () => {
       </div>
       <div id="slide2" className="carousel-item relative w-full">
         <img
-          src="https://i.ibb.co.com/NtCX9bM/burned-wood-vintage-wooden-kitchen-board-275559-24802.jpg"
+          src="https://i.ibb.co.com/87V2sLf/unnamed.png"
           className="w-full" />
         <div className="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
           <a href="#slide1" className="btn btn-circle">❮</a>
